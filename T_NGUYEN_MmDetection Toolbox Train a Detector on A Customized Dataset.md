@@ -217,6 +217,7 @@ Kết quả training:
 Nhận xét: ta thấy kết quả training đạt được 91.8 mAP khá cao, lý do tập dataset của ta nhỏ.
 
 Ta có thể qua sát trực quan hơn bằng: 
+
     # load tensorboard in colab
     %load_ext tensorboard
 
