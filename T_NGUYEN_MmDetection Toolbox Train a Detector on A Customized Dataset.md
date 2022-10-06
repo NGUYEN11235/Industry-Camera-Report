@@ -144,7 +144,6 @@ Ta load file của model và sau đó chỉnh sửa như sau:
 
 
     cfg.data.val.ann_file = '/content/mmdetection/mask_detect-20/test/_annotations.coco.json'
-    cfg.data.test.img_prefix = '/content/mmdetection/mask_detect-20/test'
     cfg.data.val.img_prefix = '/content/mmdetection/mask_detect-20/test'
     cfg.data.val.classes = ('hop',)
 
